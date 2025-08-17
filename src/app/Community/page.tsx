@@ -7,13 +7,13 @@ export default function CommunityPage() {
     "name": "Ryan Carniato",
     "handle": "@RyanCarniato",
     "src": "/Community/1.jpg",
-    "description": "I'm loving what Rake enables. We've found building SolidStart that it is less a metaframework but a system of symbiotic Rake plugins."
+    "description": "I&apos;m loving what Rake enables. We&apos;ve found building SolidStart that it is less a metaframework but a system of symbiotic Rake plugins."
   },
   {
     "name": "Rich Harris",
     "handle": "@Rich_Harris",
     "src": "/Community/2.jpg",
-    "description": "Rake is basically the united nations of JavaScript at this point. I'll be there as a representative of Sveltelandia"
+    "description": "Rake is basically the united nations of JavaScript at this point. I&apos;ll be there as a representative of Sveltelandia"
   },
   {
     "name": "David East",
@@ -31,7 +31,7 @@ export default function CommunityPage() {
     "name": "Jason Miller",
     "handle": "@_developit",
     "src": "/Community/5.jpeg",
-    "description": "Every time I suspect I've hit the bounds of what Rake can do, I end up being wrong."
+    "description": "Every time I suspect I&apos;ve hit the bounds of what Rake can do, I end up being wrong."
   },
   {
     "name": "David Cramer",
