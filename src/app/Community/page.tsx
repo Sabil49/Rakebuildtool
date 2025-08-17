@@ -63,7 +63,7 @@ export default function CommunityPage() {
         <div className='pb-8'>
             <div className='text-center mb-12 w-1/2 m-auto z-10'>
                 <h2 className=" text-white">Loved by the community</h2>
-                <h3 className="text-lg text-[#a3a3a3]">Don't take our word for it - listen to what<br /> Rake community members have to say.</h3>                
+                <h3 className="text-lg text-[#a3a3a3]">Don&apos;t take our word for it - listen to what<br /> Rake community members have to say.</h3>                
           </div>
             <div className='m-[40px_auto] w-[80%] mt-8 columns-3'>
                 {community_arr.map((member) => (
